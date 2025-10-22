@@ -21,7 +21,7 @@ A feature-rich implementation of a classic matching card game, built from scratc
 
 * **Frontend:** HTML5, CSS3 (Flexbox), Vanilla JavaScript (ES6+)
 * **Core Concepts:** DOM Manipulation, Advanced Event Handling (Event Delegation), and Client-Side State Management.
-* **Deployment:**GitHub Pages
+* **Deployment:** GitHub Pages
 
 
 
