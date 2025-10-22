@@ -11,6 +11,7 @@ A feature-rich implementation of a classic matching card game, built from scratc
 **🎮 Live Demo:** [https://naimabogran.github.io/matching-card-bootcamp/](https://naimabogran.github.io/matching-card-bootcamp/)
 
 ---
+<img width="1719" height="812" alt="image" src="/css/image.png" />
 
 ## ✨ Features
 
@@ -18,9 +19,9 @@ A feature-rich implementation of a classic matching card game, built from scratc
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS3 (Flexbox, CSS Animations), Vanilla JavaScript (ES6+)
+* **Frontend:** HTML5, CSS3 (Flexbox), Vanilla JavaScript (ES6+)
 * **Core Concepts:** DOM Manipulation, Advanced Event Handling (Event Delegation), and Client-Side State Management.
-* **Deployment:**Github Pages
+* **Deployment:**GitHub Pages
 
 
 
